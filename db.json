@@ -42,25 +42,19 @@
       "id": 1,
       "nome": "Secretaria de Saúde",
       "email": "ses@exemplo.com",
-      "password": "admin@123",
-      "token": "token123",
-      "StatusMsg": "login-ok"
+      "password": "admin@123"
     },
     {
       "id": 2,
       "nome": "Diretoria Regional de Saúde",
       "email": "drs@exemplo.com",
-      "password": "admin@123",
-      "token": "token123",
-      "StatusMsg": "login-ok"
+      "password": "admin@123"
     },
     {
       "id": 3,
       "nome": "Unidade Básica de Saúde",
       "email": "ubs@exemplo.com",
-      "password": "admin@123",
-      "token": "token123",
-      "StatusMsg": "login-ok"
+      "password": "admin@123"
     }
   ],
   "permissoes": [
