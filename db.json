@@ -1,75 +1,30 @@
 {
-  "pacientes": [
+  "posts": [
     {
       "id": 1,
-      "nome": "Mariana da Silva Santos",
-      "nomeMae": "Maria da Silva Santos",
-      "cpf": 12312312312,
-      "cns": 12345678910,
-      "telefone": "(11) 1111-1111",
-      "endereco": "R. Purpurina, 280 - Vila Madalena, São Paulo - SP, 05435-030",
-      "ubs": "UBS Dr. Manoel Joaquim Pera",
-      "status": "Aguardando por consulta"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "nome": "Joana da Silva Santos",
-      "nomeMae": "Marcela da Silva Santos",
-      "cpf": 12312312312,
-      "cns": 12345678910,
-      "telefone": "(11) 1111-1111",
-      "endereco": "Av. Sumaré, 100 - Perdizes, São Paulo - SP, 05016-090",
-      "ubs": "UBS Dr. Manoel Joaquim Pera",
-      "status": "Aguardando por resultado de exame"
-    }
-  ],
-  "ubs": [
-    {
-      "id": 1,
-      "cnes": 5788589,
-      "nome": "UBS Dr. Manoel Joaquim Pera",
-      "drs": 2
-    },
-    {
-      "id": 2,
-      "cnes": 2788063,
-      "nome": "UBS Vila Anglo - Doutor José Serra Ribeiro",
-      "drs": 1
-    }
-  ],
-  "usuarios": [
-    {
-      "id": 1,
-      "nome": "Secretaria de Saúde",
-      "email": "ses@exemplo.com"
-    },
-    {
-      "id": 2,
-      "nome": "Diretoria Regional de Saúde",
-      "email": "drs@exemplo.com"
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "nome": "Unidade Básica de Saúde",
-      "email": "ubs@exemplo.com"
+      "title": "Post 3"
     }
   ],
-  "permissoes": [
+  "comments": [
     {
       "id": 1,
-      "nome": "DRS"
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
-      "nome": "SES"
-    },
-    {
-      "id": 3,
-      "nome": "UBS"
-    },
-    {
-      "id": 4,
-      "nome": "ADMINISTRADOR"
+      "body": "some comment",
+      "postId": 1
     }
   ],
-}
+  "profile": {
+    "name": "typicode"
+  }
