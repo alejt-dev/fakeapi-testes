@@ -1,75 +1,18 @@
 {
-  "pacientes": [
-    {
-      "id": 1,
-      "nome": "Mariana da Silva Santos",
-      "nomeMae": "Maria da Silva Santos",
-      "cpf": 12312312312,
-      "cns": 12345678910,
-      "telefone": "(11) 1111-1111",
-      "endereco": "R. Purpurina, 280 - Vila Madalena, São Paulo - SP, 05435-030",
-      "ubs": "UBS Dr. Manoel Joaquim Pera",
-      "status": "Aguardando por consulta"
-    },
-    {
-      "id": 2,
-      "nome": "Joana da Silva Santos",
-      "nomeMae": "Marcela da Silva Santos",
-      "cpf": 12312312312,
-      "cns": 12345678910,
-      "telefone": "(11) 1111-1111",
-      "endereco": "Av. Sumaré, 100 - Perdizes, São Paulo - SP, 05016-090",
-      "ubs": "UBS Dr. Manoel Joaquim Pera",
-      "status": "Aguardando por resultado de exame"
-    }
+  "cursos": [
+    { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
+    { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
+    { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
+    { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
   ],
-  "ubs": [
-    {
-      "id": 1,
-      "cnes": 5788589,
-      "nome": "UBS Dr. Manoel Joaquim Pera",
-      "drs": 2
-    },
-    {
-      "id": 2,
-      "cnes": 2788063,
-      "nome": "UBS Vila Anglo - Doutor José Serra Ribeiro",
-      "drs": 1
-    }
+  "alunos": [
+    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
+    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
+    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
+    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
   ],
-  "usuarios": [
-    {
-      "id": 1,
-      "nome": "Secretaria de Saúde",
-      "email": "ses@exemplo.com"
-    },
-    {
-      "id": 2,
-      "nome": "Diretoria Regional de Saúde",
-      "email": "drs@exemplo.com"
-    },
-    {
-      "id": 3,
-      "nome": "Unidade Básica de Saúde",
-      "email": "ubs@exemplo.com"
-    }
-  ],
-  "permissoes": [
-    {
-      "id": 1,
-      "nome": "DRS"
-    },
-    {
-      "id": 2,
-      "nome": "SES"
-    },
-    {
-      "id": 3,
-      "nome": "UBS"
-    },
-    {
-      "id": 4,
-      "nome": "ADMINISTRADOR"
-    }
-  ],
+  "empresa": {
+    "nome": "Code Prestige"
+  }
 }
