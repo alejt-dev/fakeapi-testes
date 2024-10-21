@@ -41,17 +41,17 @@
     {
       "id": 1,
       "nome": "Secretaria de Saúde",
-      "email": "ses@exemplo.com",
+      "email": "ses@exemplo.com"
     },
     {
       "id": 2,
       "nome": "Diretoria Regional de Saúde",
-      "email": "drs@exemplo.com",
+      "email": "drs@exemplo.com"
     },
     {
       "id": 3,
       "nome": "Unidade Básica de Saúde",
-      "email": "ubs@exemplo.com",
+      "email": "ubs@exemplo.com"
     }
   ],
   "permissoes": [
