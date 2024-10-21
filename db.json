@@ -1,5 +1,17 @@
 {
  "ubs": [
+   {
+      "id": 1,
+      "cnes": 5788589,
+      "nome": "UBS Dr. Manoel Joaquim Pera",
+      "drs": 2
+    },
+    {
+      "id": 2,
+      "cnes": 2788063,
+      "nome": "UBS Vila Anglo - Doutor José Serra Ribeiro",
+      "drs": 1
+    },
     {
       "id": 3,
       "cnes": 4789052,
