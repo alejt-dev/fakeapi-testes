@@ -268,39 +268,56 @@
   "usuarios": [
     {
       "id": 1,
-      "nome": "Secretaria de Saúde",
-      "email": "ses@exemplo.com",
-      "password": "admin@123"
+      "nome": "Administrador",
+      "email": "administrador@exemplo.com",
+      "password": "admin123"
     },
     {
       "id": 2,
-      "nome": "Diretoria Regional de Saúde",
-      "email": "drs@exemplo.com",
-      "password": "admin@123"
+      "nome": "Médico",
+      "email": "medico@exemplo.com",
+      "password": "admin123"
     },
     {
       "id": 3,
-      "nome": "Unidade Básica de Saúde",
-      "email": "ubs@exemplo.com",
-      "password": "admin@123"
+      "nome": "Enfermeiro",
+      "email": "enfermeiro@exemplo.com",
+      "password": "admin123"
+    },
+    {
+      "id": 4,
+      "nome": "Secretário",
+      "email": "secretario@exemplo.com",
+      "password": "admin123"
+    },
+    {
+      "id": 5,
+      "nome": "Outros",
+      "email": "outros@exemplo.com",
+      "password": "admin123"
     }
+   
   ],
   "permissoes": [
     {
       "id": 1,
-      "nome": "DRS"
+      "nome": "Administrador"
     },
     {
       "id": 2,
-      "nome": "SES"
+      "nome": "Médico"
     },
     {
       "id": 3,
-      "nome": "UBS"
+      "nome": "Enfermeiro"
     },
     {
       "id": 4,
-      "nome": "ADMINISTRADOR"
+      "nome": "Secretário"
+    },
+   {
+      "id": 5,
+      "nome": "Outros"
     }
   ]
 }
