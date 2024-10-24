@@ -29,18 +29,6 @@
       "cnes": 1029583,
       "nome": "UBS Vila Esperança",
       "drs": 1
-    },
-    {
-      "id": 6,
-      "cnes": 4958203,
-      "nome": "UBS Parque das Nações",
-      "drs": 3
-    },
-    {
-      "id": 7,
-      "cnes": 9843021,
-      "nome": "UBS São João",
-      "drs": 2
     }
   ],
   "pacientes": [
