@@ -194,7 +194,7 @@
       "cns": "66778899011",
       "telefone": "(11) 95678-9012",
       "endereco": "R. da Consolação, 900 - Consolação, São Paulo - SP, 01302-000",
-      "ubs_id": 6,
+      "ubs_id": 3,
       "status": "Alta"
     },
     {
@@ -205,7 +205,7 @@
       "cns": "99887766555",
       "telefone": "(11) 96789-0123",
       "endereco": "R. Marquês de São Vicente, 450 - Barra Funda, São Paulo - SP, 01139-000",
-      "ubs_id": 7,
+      "ubs_id": 4,
       "status": "Em tratamento"
     }
   ],
