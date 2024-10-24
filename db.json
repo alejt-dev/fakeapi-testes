@@ -277,17 +277,20 @@
   ],
   "prontuarios": [
     {
-      "id": 1
+      "id": 1,
+      "data_consulta": "24/10/2014" 
     }
   ],
  "exames": [
     {
-      "id": 1
+      "id": 1,
+      "data_exame": "24/10/2014" 
     }
   ],
  "atendimentos": [
     {
-      "id": 1
+      "id": 1,
+      "data_atendimento": "24/10/2014" 
     }
   ]
 }
