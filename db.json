@@ -252,7 +252,7 @@
       "email": "outros@exemplo.com",
       "password": "admin123"
     }
-  ]
+  ],
   "permissoes": [
     {
       "id": 1,
