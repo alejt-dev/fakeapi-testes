@@ -319,5 +319,20 @@
       "id": 5,
       "nome": "Outros"
     }
-  ]
+  ],
+ "prontuario": [
+  {
+   "id": 1,
+  }
+ ],
+  "exame": [
+  {
+   "id": 1,
+  }
+ ],
+  "atendimento": [
+  {
+   "id": 1,
+  }
+ ]
 }
