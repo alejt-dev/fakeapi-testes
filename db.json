@@ -275,22 +275,16 @@
       "nome": "Outros"
     }
   ],
-  "prontuarios": [
-    {
+  "prontuarios": {
       "id": 1,
       "data_consulta": "24/10/2014" 
-    }
-  ],
- "exames": [
-    {
+  },
+ "exames": {
       "id": 1,
       "data_exame": "24/10/2014" 
-    }
-  ],
- "atendimentos": [
-    {
+  },
+ "atendimentos": {
       "id": 1,
       "data_atendimento": "24/10/2014" 
-    }
-  ]
+  }
 }
