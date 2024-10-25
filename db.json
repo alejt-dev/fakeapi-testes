@@ -215,35 +215,45 @@
       "nome": "Administrador",
       "email": "administrador@exemplo.com",
       "password": "admin123",
-      "funcao": "Enfermeira"
+      "funcao": "Enfermeira",
+      "ubs_id": "1",
+      "permissao_id": "1"
     },
     {
       "id": 2,
       "nome": "Médico",
       "email": "medico@exemplo.com",
       "password": "admin123",
-      "funcao": "Enfermeira"
+      "funcao": "Enfermeira",
+      "ubs_id": "2",
+      "permissao_id": "2"
     },
     {
       "id": 3,
       "nome": "Enfermeiro",
       "email": "enfermeiro@exemplo.com",
       "password": "admin123",
-      "funcao": "Enfermeira"
+      "funcao": "Enfermeira",
+      "ubs_id": "3",
+      "permissao_id": "3"
     },
     {
       "id": 4,
       "nome": "Secretário",
       "email": "secretario@exemplo.com",
       "password": "admin123",
-      "funcao": "Enfermeira"
+      "funcao": "Enfermeira",
+      "ubs_id": "4",
+      "permissao_id": "4"
     },
     {
       "id": 5,
       "nome": "Outros",
       "email": "outros@exemplo.com",
       "password": "admin123",
-      "funcao": "Enfermeira"
+      "funcao": "Enfermeira",
+      "ubs_id": "5",
+      "permissao_id": "5"
     }
   ],
   "permissoes": [
