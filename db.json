@@ -216,8 +216,8 @@
       "email": "administrador@exemplo.com",
       "password": "admin123",
       "funcao": "Administrador",
-      "ubs_id": "1",
-      "permissao_id": "1"
+      "ubs_id": 1,
+      "permissao_id": 1
     },
     {
       "id": 2,
@@ -225,8 +225,8 @@
       "email": "medico@exemplo.com",
       "password": "admin123",
       "funcao": "Médico",
-      "ubs_id": "2",
-      "permissao_id": "2"
+      "ubs_id": 2,
+      "permissao_id": 2
     },
     {
       "id": 3,
@@ -234,8 +234,8 @@
       "email": "enfermeiro@exemplo.com",
       "password": "admin123",
       "funcao": "Enfermeiro",
-      "ubs_id": "3",
-      "permissao_id": "3"
+      "ubs_id": 3,
+      "permissao_id": 3
     },
     {
       "id": 4,
@@ -243,8 +243,8 @@
       "email": "secretario@exemplo.com",
       "password": "admin123",
       "funcao": "Secretário",
-      "ubs_id": "4",
-      "permissao_id": "4"
+      "ubs_id": 4,
+      "permissao_id": 4
     },
     {
       "id": 5,
@@ -252,8 +252,8 @@
       "email": "outros@exemplo.com",
       "password": "admin123",
       "funcao": "Outros",
-      "ubs_id": "5",
-      "permissao_id": "5"
+      "ubs_id": 5,
+      "permissao_id": 5
     }
   ],
   "permissoes": [
