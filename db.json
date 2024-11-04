@@ -52,7 +52,8 @@
       "telefone": "(11) 1111-1111",
       "endereco": "Av. Sumaré, 100 - Perdizes, São Paulo - SP, 05016-090",
       "ubs_id": 1,
-      "status": "Aguardando por resultado de exame"
+      "status": "Aguardando por resultado de exame",
+      "img": "assets/img/users/user-30.jpg"
     },
     {
       "id": 3,
