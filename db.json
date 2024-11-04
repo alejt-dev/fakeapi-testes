@@ -230,11 +230,11 @@
     },
     {
       "id": 3,
-      "nome": "Enfermeiro",
-      "email": "enfermeiro@exemplo.com",
+      "nome": "Joana dos Santos",
+      "email": "joana@exemplo.com",
       "password": "admin123",
       "funcao": "Enfermeiro",
-      "ubs_id": 3,
+      "ubs_id": 2,
       "permissao_id": 3
     },
     {
@@ -254,6 +254,15 @@
       "funcao": "Outros",
       "ubs_id": 5,
       "permissao_id": 5
+    },
+    {
+      "id": 6,
+      "nome": "Maria da Silva",
+      "email": "maria@exemplo.com",
+      "password": "admin123",
+      "funcao": "Enfermeiro",
+      "ubs_id": 3,
+      "permissao_id": 3
     }
   ],
   "permissoes": [
@@ -267,15 +276,7 @@
     },
     {
       "id": 3,
-      "nome": "Maria Dos Santos"
-    },
-     {
-      "id": 3,
-      "nome": "Ana Cristina Ferreira"
-    },
-    {
-      "id": 3,
-      "nome": "Solange Almeida da Silva"
+      "nome": "Enfermeiro"
     },
     {
       "id": 4,
