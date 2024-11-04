@@ -86,7 +86,8 @@
       "telefone": "(11) 4444-4444",
       "endereco": "Av. Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200",
       "ubs_id": 2,
-      "status": "Alta"
+      "status": "Alta",
+      "img": "assets/img/users/user-30.jpg"
     },
     {
       "id": 6,
