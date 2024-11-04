@@ -41,7 +41,8 @@
       "telefone": "(11) 1111-1111",
       "endereco": "R. Purpurina, 280 - Vila Madalena, São Paulo - SP, 05435-030",
       "ubs_id": 3,
-      "status": "Aguardando por consulta"
+      "status": "Aguardando por consulta",
+      "img": "assets/img/users/user-02.jpg"
     },
     {
       "id": 2,
@@ -64,7 +65,8 @@
       "telefone": "(11) 2222-2222",
       "endereco": "R. das Laranjeiras, 45 - Vila Mariana, São Paulo - SP, 04019-030",
       "ubs_id": 3,
-      "status": "Aguardando por consulta"
+      "status": "Aguardando por consulta",
+      "img": "assets/img/users/user-02.jpg"
     },
     {
       "id": 4,
