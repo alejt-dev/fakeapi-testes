@@ -39,7 +39,7 @@
       "cpf": "12312312312",
       "cns": "12345678910",
       "telefone": "(11) 1111-1111",
-      "endereco": "R. Purpurina, 280 - Vila Madalena, São Paulo - SP, 05435-030",
+      "endereco": "R. Purpurina, 280",
       "ubs_id": 3,
       "status": "Aguardando por consulta",
       "img": "assets/img/users/user-02.jpg"
@@ -51,7 +51,7 @@
       "cpf": "12312312312",
       "cns": "12345678910",
       "telefone": "(11) 1111-1111",
-      "endereco": "Av. Sumaré, 100 - Perdizes, São Paulo - SP, 05016-090",
+      "endereco": "Av. Sumaré, 100",
       "ubs_id": 1,
       "status": "Aguardando por resultado de exame",
       "img": "assets/img/users/user-30.jpg"
@@ -63,7 +63,7 @@
       "cpf": "98765432100",
       "cns": "22334455667",
       "telefone": "(11) 2222-2222",
-      "endereco": "R. das Laranjeiras, 45 - Vila Mariana, São Paulo - SP, 04019-030",
+      "endereco": "R. das Laranjeiras, 45",
       "ubs_id": 3,
       "status": "Aguardando por consulta",
       "img": "assets/img/users/user-02.jpg"
@@ -75,7 +75,7 @@
       "cpf": "32165498700",
       "cns": "66778899001",
       "telefone": "(11) 3333-3333",
-      "endereco": "R. Harmonia, 105 - Sumarezinho, São Paulo - SP, 05435-090",
+      "endereco": "R. Harmonia, 105",
       "ubs_id": 1,
       "status": "Em tratamento"
     },
@@ -86,7 +86,7 @@
       "cpf": "14725836900",
       "cns": "99887766554",
       "telefone": "(11) 4444-4444",
-      "endereco": "Av. Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200",
+      "endereco": "Av. Paulista, 1578",
       "ubs_id": 2,
       "status": "Alta",
       "img": "assets/img/users/user-30.jpg"
@@ -98,7 +98,7 @@
       "cpf": "96385274100",
       "cns": "66554433221",
       "telefone": "(11) 5555-5555",
-      "endereco": "R. Vergueiro, 1300 - Liberdade, São Paulo - SP, 01504-001",
+      "endereco": "R. Vergueiro, 1300",
       "ubs_id": 3,
       "status": "Aguardando por consulta"
     },
@@ -109,7 +109,7 @@
       "cpf": "15975348600",
       "cns": "11223344556",
       "telefone": "(11) 6666-6666",
-      "endereco": "R. Augusta, 2500 - Consolação, São Paulo - SP, 01413-000",
+      "endereco": "R. Augusta, 2500",
       "ubs_id": 4,
       "status": "Em tratamento"
     },
@@ -120,7 +120,7 @@
       "cpf": "74125896300",
       "cns": "77665544332",
       "telefone": "(11) 7777-7777",
-      "endereco": "Av. Faria Lima, 2000 - Pinheiros, São Paulo - SP, 01451-001",
+      "endereco": "Av. Faria Lima, 2000",
       "ubs_id": 5,
       "status": "Aguardando por consulta"
     },
@@ -131,7 +131,7 @@
       "cpf": "35795185200",
       "cns": "55667788990",
       "telefone": "(11) 8888-8888",
-      "endereco": "R. Oscar Freire, 700 - Jardins, São Paulo - SP, 01426-000",
+      "endereco": "R. Oscar Freire, 700",
       "ubs_id": 3,
       "status": "Em tratamento"
     },
@@ -142,7 +142,7 @@
       "cpf": "65412378900",
       "cns": "22331144556",
       "telefone": "(11) 9999-9999",
-      "endereco": "Av. Santo Amaro, 4000 - Brooklin, São Paulo - SP, 04702-001",
+      "endereco": "Av. Santo Amaro, 4000",
       "ubs_id": 4,
       "status": "Aguardando por consulta"
     },
@@ -153,7 +153,7 @@
       "cpf": "98712365400",
       "cns": "22334455678",
       "telefone": "(11) 91234-5678",
-      "endereco": "R. Afonso Pena, 320 - Vila Clementino, São Paulo - SP, 04001-001",
+      "endereco": "R. Afonso Pena, 320",
       "ubs_id": 2,
       "status": "Aguardando por consulta"
     },
@@ -164,7 +164,7 @@
       "cpf": "12378945600",
       "cns": "33445566778",
       "telefone": "(11) 92345-6789",
-      "endereco": "Av. dos Bandeirantes, 100 - Itaim Bibi, São Paulo - SP, 04553-000",
+      "endereco": "Av. dos Bandeirantes, 100",
       "ubs_id": 3,
       "status": "Aguardando por exame"
     },
@@ -175,7 +175,7 @@
       "cpf": "45612378900",
       "cns": "44556677889",
       "telefone": "(11) 93456-7890",
-      "endereco": "R. Doze de Outubro, 1050 - Lapa, São Paulo - SP, 05075-000",
+      "endereco": "R. Doze de Outubro, 1050",
       "ubs_id": 4,
       "status": "Aguardando por resultado de exame"
     },
@@ -186,7 +186,7 @@
       "cpf": "74185296300",
       "cns": "55667788990",
       "telefone": "(11) 94567-8901",
-      "endereco": "R. São Carlos, 860 - Vila Matilde, São Paulo - SP, 03513-000",
+      "endereco": "R. São Carlos, 860",
       "ubs_id": 5,
       "status": "Aguardando por consulta"
     },
@@ -197,7 +197,7 @@
       "cpf": "85296374100",
       "cns": "66778899011",
       "telefone": "(11) 95678-9012",
-      "endereco": "R. da Consolação, 900 - Consolação, São Paulo - SP, 01302-000",
+      "endereco": "R. da Consolação, 900",
       "ubs_id": 3,
       "status": "Alta"
     },
@@ -208,7 +208,7 @@
       "cpf": "96385274100",
       "cns": "99887766555",
       "telefone": "(11) 96789-0123",
-      "endereco": "R. Marquês de São Vicente, 450 - Barra Funda, São Paulo - SP, 01139-000",
+      "endereco": "R. Marquês de São Vicente, 450 ",
       "ubs_id": 4,
       "status": "Em tratamento"
     }
