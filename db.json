@@ -42,7 +42,7 @@
       "endereco": "R. Purpurina, 280",
       "ubs_id": 3,
       "status": "Aguardando por consulta",
-      "img": "assets/img/users/user-02.jpg"
+      "observacao": "observacao 1"
     },
     {
       "id": 2,
@@ -54,7 +54,7 @@
       "endereco": "Av. Sumaré, 100",
       "ubs_id": 1,
       "status": "Aguardando por resultado de exame",
-      "img": "assets/img/users/user-30.jpg"
+      "observacao": "observacao 2"
     },
     {
       "id": 3,
@@ -66,7 +66,7 @@
       "endereco": "R. das Laranjeiras, 45",
       "ubs_id": 3,
       "status": "Aguardando por consulta",
-      "img": "assets/img/users/user-02.jpg"
+      "observacao": "observacao 3"
     },
     {
       "id": 4,
@@ -77,7 +77,8 @@
       "telefone": "(11) 3333-3333",
       "endereco": "R. Harmonia, 105",
       "ubs_id": 1,
-      "status": "Em tratamento"
+      "status": "Em tratamento",
+      "observacao": "observacao 4"
     },
     {
       "id": 5,
@@ -89,7 +90,7 @@
       "endereco": "Av. Paulista, 1578",
       "ubs_id": 2,
       "status": "Alta",
-      "img": "assets/img/users/user-30.jpg"
+      "observacao": "observacao 4"
     },
     {
       "id": 6,
@@ -101,6 +102,7 @@
       "endereco": "R. Vergueiro, 1300",
       "ubs_id": 3,
       "status": "Aguardando por consulta"
+      "observacao": "observacao 5"
     },
     {
       "id": 7,
@@ -111,7 +113,8 @@
       "telefone": "(11) 6666-6666",
       "endereco": "R. Augusta, 2500",
       "ubs_id": 4,
-      "status": "Em tratamento"
+      "status": "Em tratamento",
+      "observacao": "observacao 5"
     },
     {
       "id": 8,
@@ -122,7 +125,8 @@
       "telefone": "(11) 7777-7777",
       "endereco": "Av. Faria Lima, 2000",
       "ubs_id": 5,
-      "status": "Aguardando por consulta"
+      "status": "Aguardando por consulta",
+      "observacao": "observacao 6"
     },
     {
       "id": 9,
@@ -133,7 +137,8 @@
       "telefone": "(11) 8888-8888",
       "endereco": "R. Oscar Freire, 700",
       "ubs_id": 3,
-      "status": "Em tratamento"
+      "status": "Em tratamento",
+      "observacao": "observacao 7"
     },
     {
       "id": 10,
@@ -144,7 +149,8 @@
       "telefone": "(11) 9999-9999",
       "endereco": "Av. Santo Amaro, 4000",
       "ubs_id": 4,
-      "status": "Aguardando por consulta"
+      "status": "Aguardando por consulta",
+      "observacao": "observacao 8"
     },
     {
       "id": 11,
@@ -155,7 +161,8 @@
       "telefone": "(11) 91234-5678",
       "endereco": "R. Afonso Pena, 320",
       "ubs_id": 2,
-      "status": "Aguardando por consulta"
+      "status": "Aguardando por consulta",
+      "observacao": "observacao 9"
     },
     {
       "id": 12,
@@ -166,7 +173,8 @@
       "telefone": "(11) 92345-6789",
       "endereco": "Av. dos Bandeirantes, 100",
       "ubs_id": 3,
-      "status": "Aguardando por exame"
+      "status": "Aguardando por exame",
+      "observacao": "observacao 10"
     },
     {
       "id": 13,
@@ -177,7 +185,8 @@
       "telefone": "(11) 93456-7890",
       "endereco": "R. Doze de Outubro, 1050",
       "ubs_id": 4,
-      "status": "Aguardando por resultado de exame"
+      "status": "Aguardando por resultado de exame",
+      "observacao": "observacao 11"
     },
     {
       "id": 14,
@@ -188,7 +197,8 @@
       "telefone": "(11) 94567-8901",
       "endereco": "R. São Carlos, 860",
       "ubs_id": 5,
-      "status": "Aguardando por consulta"
+      "status": "Aguardando por consulta",
+      "observacao": "observacao 12"
     },
     {
       "id": 15,
@@ -199,7 +209,8 @@
       "telefone": "(11) 95678-9012",
       "endereco": "R. da Consolação, 900",
       "ubs_id": 3,
-      "status": "Alta"
+      "status": "Alta",
+      "observacao": "observacao 13"
     },
     {
       "id": 16,
@@ -210,7 +221,8 @@
       "telefone": "(11) 96789-0123",
       "endereco": "R. Marquês de São Vicente, 450 ",
       "ubs_id": 4,
-      "status": "Em tratamento"
+      "status": "Em tratamento",
+      "observacao": "observacao 14"
     }
   ],
   "usuarios": [
