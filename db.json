@@ -240,8 +240,11 @@
       "id": 1,
       "nome": "Administrador",
       "email": "administrador@exemplo.com",
+      "telefone": "(11) 1234-5678",
+      "origem": "São Paulo",
       "password": "admin123",
       "funcao": "Administrador",
+      "status": "Ativo",
       "ubs_id": 1,
       "permissao_id": 1
     },
