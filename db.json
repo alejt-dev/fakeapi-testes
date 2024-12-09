@@ -2,9 +2,19 @@
   "estabelecimentos": [
     {
       "id": 1,
+      "nome": "UBS Jardim São Paulo",
+      "razaosocial": "Unidade Básica de Saúde Jardim São Paulo",
+      "endereco": "Rua das Acácias, 56 - São Paulo/SP",
+      "telefone": "(11) 1234-5678",
+      "responsavel": "Dr. João Silva",
+      "status": "UBS Dr. Manoel Joaquim Pera",
       "cnes": 5788589,
-      "nome": "UBS Dr. Manoel Joaquim Pera",
-      "drs": 2
+      "cnpj": "12.345.678/0001-90",
+      "tipo": "UBS",
+      "naturezajuridica": "Pública Municipal",
+      "drs": 2,
+      "observacoes": "Atendimento geral",
+      "status": "Ativo"
     },
     {
       "id": 2,
