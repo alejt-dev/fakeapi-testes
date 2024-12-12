@@ -85,7 +85,7 @@
       "cns": "12345678910",
       "telefone": "(11) 11111-1111",
       "endereco": "R. Purpurina, 280",
-      "ubs_id": 3,
+      "ubs_id": 1,
       "status": "Aguardando por consulta",
       "observacao": "observacao 1"
     },
@@ -109,7 +109,7 @@
       "cns": "22334455667",
       "telefone": "(11) 12222-2222",
       "endereco": "R. das Laranjeiras, 45",
-      "ubs_id": 3,
+      "ubs_id": 2,
       "status": "Aguardando por consulta",
       "observacao": "observacao 3"
     },
@@ -145,7 +145,7 @@
       "cns": "66554433221",
       "telefone": "(11) 65555-5555",
       "endereco": "R. Vergueiro, 1300",
-      "ubs_id": 3,
+      "ubs_id": 1,
       "status": "Aguardando por consulta",
       "observacao": "observacao 5"
     },
@@ -157,7 +157,7 @@
       "cns": "11223344556",
       "telefone": "(11) 76666-6666",
       "endereco": "R. Augusta, 2500",
-      "ubs_id": 4,
+      "ubs_id": 2,
       "status": "Em tratamento",
       "observacao": "observacao 5"
     },
@@ -169,7 +169,7 @@
       "cns": "77665544332",
       "telefone": "(11) 87777-7777",
       "endereco": "Av. Faria Lima, 2000",
-      "ubs_id": 5,
+      "ubs_id": 1,
       "status": "Aguardando por consulta",
       "observacao": "observacao 6"
     },
@@ -181,7 +181,7 @@
       "cns": "55667788990",
       "telefone": "(11) 98888-8888",
       "endereco": "R. Oscar Freire, 700",
-      "ubs_id": 3,
+      "ubs_id": 2,
       "status": "Em tratamento",
       "observacao": "observacao 7"
     },
@@ -193,7 +193,7 @@
       "cns": "22331144556",
       "telefone": "(11) 9999-9999",
       "endereco": "Av. Santo Amaro, 4000",
-      "ubs_id": 4,
+      "ubs_id": 1,
       "status": "Aguardando por consulta",
       "observacao": "observacao 8"
     },
@@ -217,7 +217,7 @@
       "cns": "33445566778",
       "telefone": "(11) 92345-6789",
       "endereco": "Av. dos Bandeirantes, 100",
-      "ubs_id": 3,
+      "ubs_id": 1,
       "status": "Aguardando por exame",
       "observacao": "observacao 10"
     },
@@ -229,7 +229,7 @@
       "cns": "44556677889",
       "telefone": "(11) 93456-7890",
       "endereco": "R. Doze de Outubro, 1050",
-      "ubs_id": 4,
+      "ubs_id": 1,
       "status": "Aguardando por resultado de exame",
       "observacao": "observacao 11"
     },
@@ -241,7 +241,7 @@
       "cns": "55667788990",
       "telefone": "(11) 94567-8901",
       "endereco": "R. São Carlos, 860",
-      "ubs_id": 5,
+      "ubs_id": 1,
       "status": "Aguardando por consulta",
       "observacao": "observacao 12"
     },
@@ -253,7 +253,7 @@
       "cns": "66778899011",
       "telefone": "(11) 95678-9012",
       "endereco": "R. da Consolação, 900",
-      "ubs_id": 3,
+      "ubs_id": 2,
       "status": "Alta",
       "observacao": "observacao 13"
     },
@@ -265,7 +265,7 @@
       "cns": "99887766555",
       "telefone": "(11) 96789-0123",
       "endereco": "R. Marquês de São Vicente, 450 ",
-      "ubs_id": 4,
+      "ubs_id": 1,
       "status": "Em tratamento",
       "observacao": "observacao 14"
     }
