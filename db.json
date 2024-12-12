@@ -279,7 +279,7 @@
       "cnpj": "19.558.476/0001-70",
       "telefone": "(11) 11234-5678",
       "origem": "São Paulo",
-      "tipoacesso": "Administrador",
+      "tipoacesso": "administrador",
       "password": "admin123",
       "funcao": "Administrador",
       "status": "Ativo",
