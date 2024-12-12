@@ -44,36 +44,6 @@
         "naturezajuridica": "Pública Estadual",
         "drs": 7,
         "observacoes": "Atendimento odontológico"
-    },
-    {
-        "id": 4,
-        "nome": "UBS Jardim das Rosas",
-        "razaosocial": "Unidade Básica de Saúde Jardim das Rosas",
-        "endereco": "Rua das Rosas, 456 - São José dos Campos/SP",
-        "telefone": "(12) 4567-8901",
-        "responsavel": "Dra. Fernanda Lima",
-        "status": "Ativo",
-        "cnes": 7891234,
-        "cnpj": "12.987.654/0004-88",
-        "tipo": "UBS",
-        "naturezajuridica": "Pública Municipal",
-        "drs": 17,
-        "observacoes": "Atendimento ginecológico"
-    },
-    {
-        "id": 5,
-        "nome": "UBS Saúde e Bem-Estar",
-        "razaosocial": "Unidade Básica de Saúde Saúde e Bem-Estar",
-        "endereco": "Avenida Central, 123 - Santos/SP",
-        "telefone": "(13) 5678-9012",
-        "responsavel": "Dr. Rodrigo Alves",
-        "status": "Ativo",
-        "cnes": 8912345,
-        "cnpj": "12.456.789/0005-77",
-        "tipo": "UBS",
-        "naturezajuridica": "Pública Estadual",
-        "drs": 4,
-        "observacoes": "Clínica geral e vacinação"
     }
   ],
   "pacientes": [
@@ -208,66 +178,6 @@
       "ubs_id": 2,
       "status": "Aguardando por consulta",
       "observacao": "observacao 9"
-    },
-    {
-      "id": 12,
-      "nome": "Isabel Cristina Rocha",
-      "nomemae": "Patrícia Cristina Rocha",
-      "cpf": "12378945600",
-      "cns": "33445566778",
-      "telefone": "(11) 92345-6789",
-      "endereco": "Av. dos Bandeirantes, 100",
-      "ubs_id": 1,
-      "status": "Aguardando por exame",
-      "observacao": "observacao 10"
-    },
-    {
-      "id": 13,
-      "nome": "Bianca Aparecida Melo",
-      "nomemae": "Cristina Aparecida Melo",
-      "cpf": "45612378900",
-      "cns": "44556677889",
-      "telefone": "(11) 93456-7890",
-      "endereco": "R. Doze de Outubro, 1050",
-      "ubs_id": 1,
-      "status": "Aguardando por resultado de exame",
-      "observacao": "observacao 11"
-    },
-    {
-      "id": 14,
-      "nome": "Elisa Vitória Gomes",
-      "nomemae": "Marcia Vitória Gomes",
-      "cpf": "74185296300",
-      "cns": "55667788990",
-      "telefone": "(11) 94567-8901",
-      "endereco": "R. São Carlos, 860",
-      "ubs_id": 1,
-      "status": "Aguardando por consulta",
-      "observacao": "observacao 12"
-    },
-    {
-      "id": 15,
-      "nome": "Camila Fernanda Ribeiro",
-      "nomemae": "Juliana Fernanda Ribeiro",
-      "cpf": "85296374100",
-      "cns": "66778899011",
-      "telefone": "(11) 95678-9012",
-      "endereco": "R. da Consolação, 900",
-      "ubs_id": 2,
-      "status": "Alta",
-      "observacao": "observacao 13"
-    },
-    {
-      "id": 16,
-      "nome": "Roberta Santos",
-      "nomemae": "Ana Santos",
-      "cpf": "96385274100",
-      "cns": "99887766555",
-      "telefone": "(11) 96789-0123",
-      "endereco": "R. Marquês de São Vicente, 450 ",
-      "ubs_id": 1,
-      "status": "Em tratamento",
-      "observacao": "observacao 14"
     }
   ],
   "usuarios": [
