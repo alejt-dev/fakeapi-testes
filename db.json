@@ -273,10 +273,10 @@
   "usuarios": [
     {
       "id": 1,
-      "nome": "Administrador",
-      "email": "administrador@exemplo.com",
+      "nome": "Programa Municipal de Saúde de Mococa",
+      "email": "pmsm@exemplo.com",
       "cpf": "132.238.330-80",
-      "cnpj": "19.558.476/0001-70",
+      "cnpj": "44763928000101",
       "telefone": "(11) 11234-5678",
       "origem": "São Paulo",
       "tipoacesso": "administrador",
@@ -288,10 +288,10 @@
     },
     {
       "id": 2,
-      "nome": "Joana dos Santos",
-      "email": "joana@exemplo.com",
+      "nome": "Centro de Especialidade Mococa",
+      "email": "cem@exemplo.com",
       "cpf": "132.238.330-80",
-      "cnpj": "19.558.476/0001-70",
+      "cnpj": "44763928000101",
       "telefone": "(11) 11234-5678",
       "origem": "São Paulo",
       "tipoacesso": "medico",
