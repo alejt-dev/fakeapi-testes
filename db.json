@@ -189,15 +189,15 @@
   "tipo-resultado-exame": [
     {
       "id": 1,
-      "nome": Cito
+      "nome": "Cito"
     },
     {
       "id": 2,
-      "nome": Cito e Mama
+      "nome": "Cito e Mama"
     },
     {
-       "id": 3,
-      "nome": Mama
+      "id": 3,
+      "nome": "Mama"
     }
   ]
 }
