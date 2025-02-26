@@ -156,7 +156,7 @@
     {
       "id": 1,
       "pacienteId": 1,
-      "data": "14/02/2024 14:30",
+      "data_hora": "14/02/2024 14:30",
       "status_anterior": "Em Acompanhamento",
       "novo_status": "Em Tratamento",
       "usuario_responsavel": "Dr. João Souza"
@@ -164,7 +164,7 @@
     {
       "id": 2,
       "pacienteId": 1,
-      "data": "10/02/2024 14:30",
+      "data_hora": "10/02/2024 14:30",
       "status_anterior": "Em Acompanhamento",
       "novo_status": "Em Acompanhamento",
       "usuario_responsavel": "Dr. Pedro Souza"
@@ -172,7 +172,7 @@
     {
       "id": 3,
       "pacienteId": 1,
-      "data": "11/02/2024 14:30",
+      "data_hora": "11/02/2024 14:30",
       "status_anterior": "Em Tratamento",
       "novo_status": "Em Acompanhamento",
       "usuario_responsavel": "Dr. Felipe Souza"
@@ -180,7 +180,7 @@
     {
       "id": 4,
       "pacienteId": 2,
-      "data": "06/01/2024 09:15",
+      "data_hora": "06/01/2024 09:15",
       "status_anterior": "Triagem",
       "novo_status": "Em Acompanhamento",
       "usuario_responsavel": "Enfermeira Maria Lima"
