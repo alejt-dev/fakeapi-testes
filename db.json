@@ -171,7 +171,7 @@
     },
     {
       "id": 3,
-      "pacienteId": 1,
+      "pacienteId": 3,
       "data_hora": "11/02/2024 14:30",
       "status_anterior": "Em Tratamento",
       "novo_status": "Em Acompanhamento",
@@ -184,6 +184,20 @@
       "status_anterior": "Triagem",
       "novo_status": "Em Acompanhamento",
       "usuario_responsavel": "Enfermeira Maria Lima"
+    }
+  ],
+  "tipo-resultado-exame": [
+    {
+      "id": 1,
+      "nome": Cito
+    },
+    {
+      "id": 2,
+      "nome": Cito e Mama
+    },
+    {
+       "id": 3,
+      "nome": Mama
     }
   ]
 }
