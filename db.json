@@ -165,7 +165,7 @@
       "id": 2,
       "pacienteId": 1,
       "data_hora": "10/02/2024 14:30",
-      "status_anterior": "Em Acompanhamento",
+      "status_anterior": "Triagem",
       "novo_status": "Em Acompanhamento",
       "usuario_responsavel": "Dr. Pedro Souza"
     },
