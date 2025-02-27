@@ -152,10 +152,11 @@
       "permissao_id": 2
     }
   ],
-  "historico": [
+  "interacao": [
     {
       "id": 1,
       "pacienteId": 1,
+      "tipo_de_exame_id": "Colo",
       "data_hora": "14/02/2024 14:30",
       "status_anterior": "Em Acompanhamento",
       "novo_status": "Em Tratamento",
@@ -163,7 +164,8 @@
     },
     {
       "id": 2,
-      "pacienteId": 1,
+      "pacienteId": 2,
+      "tipo_de_exame_id": "Mama",
       "data_hora": "10/02/2024 14:30",
       "status_anterior": "Triagem",
       "novo_status": "Em Acompanhamento",
@@ -172,49 +174,11 @@
     {
       "id": 3,
       "pacienteId": 3,
+      "tipo_de_exame_id": "Colo e Mama",
       "data_hora": "11/02/2024 14:30",
       "status_anterior": "Em Tratamento",
       "novo_status": "Em Acompanhamento",
       "usuario_responsavel": "Dr. Felipe Souza"
-    },
-    {
-      "id": 4,
-      "pacienteId": 2,
-      "data_hora": "06/01/2024 09:15",
-      "status_anterior": "Triagem",
-      "novo_status": "Em Acompanhamento",
-      "usuario_responsavel": "Enfermeira Maria Lima"
-    }
-  ],
-  "tipo-resultado-exame": [
-    {
-      "id": 1,
-      "nome": "Cito"
-    },
-    {
-      "id": 2,
-      "nome": "Cito e Mama"
-    },
-    {
-      "id": 3,
-      "nome": "Mama"
-    }
-  ],
-  "interacao": [
-    {
-      "id": 1,
-      "pacienteId": 1,
-      "tipo_de_exame_id": 1
-    },
-    {
-      "id": 2,
-      "pacienteId": 2,
-      "tipo_de_exame_id": 2
-    },
-    {
-      "id": 3,
-      "pacienteId": 3,
-      "tipo_de_exame_id": 3
     }
   ]
 }
