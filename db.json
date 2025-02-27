@@ -158,7 +158,7 @@
       "pacienteId": 1,
       "tipo_de_exame_id": "Colo",
       "data_hora": "14/02/2024 14:30",
-      "status_anterior": "Em Acompanhamento",
+      "status_anterior": "Agendar Papa",
       "novo_status": "Em Tratamento",
       "usuario_responsavel": "Dr. João Souza"
     },
@@ -168,15 +168,15 @@
       "tipo_de_exame_id": "Mama",
       "data_hora": "10/02/2024 14:30",
       "status_anterior": "Triagem",
-      "novo_status": "Em Acompanhamento",
+      "novo_status": "Agendar Mamografia",
       "usuario_responsavel": "Dr. Pedro Souza"
     },
     {
       "id": 3,
-      "pacienteId": 3,
-      "tipo_de_exame_id": "Colo e Mama",
+      "pacienteId": 1,
+      "tipo_de_exame_id": "Colo",
       "data_hora": "11/02/2024 14:30",
-      "status_anterior": "Em Tratamento",
+      "status_anterior": "Papa Atrasado",
       "novo_status": "Em Acompanhamento",
       "usuario_responsavel": "Dr. Felipe Souza"
     }
