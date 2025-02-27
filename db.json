@@ -156,7 +156,7 @@
     {
       "id": 1,
       "pacienteId": 1,
-      "tipo_de_exame_id": "Colo",
+      "tipo_de_exame": "Colo",
       "data_hora": "14/02/2024 14:30",
       "status_anterior": "Agendar Papa",
       "novo_status": "Em Tratamento",
@@ -165,7 +165,7 @@
     {
       "id": 2,
       "pacienteId": 2,
-      "tipo_de_exame_id": "Mama",
+      "tipo_de_exame": "Mama",
       "data_hora": "10/02/2024 14:30",
       "status_anterior": "Triagem",
       "novo_status": "Agendar Mamografia",
@@ -174,7 +174,7 @@
     {
       "id": 3,
       "pacienteId": 1,
-      "tipo_de_exame_id": "Colo",
+      "tipo_de_exame": "Colo e Mama",
       "data_hora": "11/02/2024 14:30",
       "status_anterior": "Papa Atrasado",
       "novo_status": "Em Acompanhamento",
