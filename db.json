@@ -199,5 +199,22 @@
       "id": 3,
       "nome": "Mama"
     }
+  ],
+  "interacao": [
+    {
+      "id": 1,
+      "pacienteId": 1,
+      "tipo_de_exame_id": 1
+    },
+    {
+      "id": 2,
+      "pacienteId": 2,
+      "tipo_de_exame_id": 2
+    },
+    {
+      "id": 3,
+      "pacienteId": 3,
+      "tipo_de_exame_id": 3
+    }
   ]
 }
