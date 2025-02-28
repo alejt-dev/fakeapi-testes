@@ -57,7 +57,25 @@
       "endereco": "R. Purpurina, 280",
       "ubs_id": 1,
       "status": "Aguardando por consulta",
-      "observacao": "observacao 1"
+      "observacao": "observacao 1",
+      "interacao": [
+        {
+          "id": 1,
+          "tipo_de_exame": "Colo",
+          "data_hora": "14/02/2024 14:30",
+          "status_anterior": "Agendar Papa",
+          "novo_status": "Em Tratamento",
+          "usuario_responsavel": "Dr. João Souza"
+        },
+        {
+          "id": 3,
+          "tipo_de_exame": "Colo e Mama",
+          "data_hora": "11/02/2024 14:30",
+          "status_anterior": "Papa Atrasado",
+          "novo_status": "Em Acompanhamento",
+          "usuario_responsavel": "Dr. Felipe Souza"
+        }
+      ]
     },
     {
       "id": 2,
@@ -69,7 +87,17 @@
       "endereco": "Av. Sumaré, 100",
       "ubs_id": 1,
       "status": "Aguardando por resultado de exame",
-      "observacao": "observacao 2"
+      "observacao": "observacao 2",
+      "interacao": [
+        {
+          "id": 2,
+          "tipo_de_exame": "Mama",
+          "data_hora": "10/02/2024 14:30",
+          "status_anterior": "Triagem",
+          "novo_status": "Agendar Mamografia",
+          "usuario_responsavel": "Dr. Pedro Souza"
+        }
+      ]
     },
     {
       "id": 3,
@@ -152,33 +180,4 @@
       "permissao_id": 2
     }
   ],
-  "interacao": [
-    {
-      "id": 1,
-      "pacienteId": 1,
-      "tipo_de_exame": "Colo",
-      "data_hora": "14/02/2024 14:30",
-      "status_anterior": "Agendar Papa",
-      "novo_status": "Em Tratamento",
-      "usuario_responsavel": "Dr. João Souza"
-    },
-    {
-      "id": 2,
-      "pacienteId": 2,
-      "tipo_de_exame": "Mama",
-      "data_hora": "10/02/2024 14:30",
-      "status_anterior": "Triagem",
-      "novo_status": "Agendar Mamografia",
-      "usuario_responsavel": "Dr. Pedro Souza"
-    },
-    {
-      "id": 3,
-      "pacienteId": 1,
-      "tipo_de_exame": "Colo e Mama",
-      "data_hora": "11/02/2024 14:30",
-      "status_anterior": "Papa Atrasado",
-      "novo_status": "Em Acompanhamento",
-      "usuario_responsavel": "Dr. Felipe Souza"
-    }
-  ]
 }
