@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nome": "PROGRAMA MUNICIPAL DE SAUDE PPA MOCOCA",
-      "razaosocial": "PREFEITURA MUNICIPAL DE MOCOCA",
+      "razao_social": "PREFEITURA MUNICIPAL DE MOCOCA",
       "endereco": "RUA XV DE NOVEMBRO, 360 - Centro - Mococa-SP",
       "telefone": "(19) 3656-9800",
       "responsavel": "MOCOCA",
@@ -11,14 +11,14 @@
       "cnes": 2054906,
       "cnpj": "44763928000101",
       "tipo": "Municipal",
-      "naturezajuridica": "MUNICIPIO",
+      "natureza_juridica": "Município",
       "drs": 14,
       "observacoes": "Nenhuma"
     },
     {
       "id": 2,
       "nome": "CENTRO DE ESPECIALIDADES MOCOCA",
-      "razaosocial": "PREFEITURA MUNICIPAL DE MOCOCA",
+      "razao_social": "PREFEITURA MUNICIPAL DE MOCOCA",
       "endereco": "RUA XV DE NOVEMBRO, 360 - Centro - Mococa-SP",
       "telefone": "(19) 3656-9800",
       "responsavel": "MOCOCA",
@@ -26,14 +26,14 @@
       "cnes": 4198026,
       "cnpj": "44763928000101",
       "tipo": "Municipal",
-      "naturezajuridica": "MUNICIPIO",
+      "natureza_juridica": "Município",
       "drs": 14,
       "observacoes": "Nenhuma"
     },
     {
       "id": 3,
       "nome": "UBS Centro de Saúde Campinas",
-      "razaosocial": "Unidade Básica de Saúde Centro Campinas",
+      "razao_social": "Unidade Básica de Saúde Centro Campinas",
       "endereco": "Rua das Flores, 987 - Campinas/SP",
       "telefone": "(19) 3456-7890",
       "responsavel": "Dr. Carlos Souza",
@@ -41,7 +41,7 @@
       "cnes": 6789123,
       "cnpj": "11223344000399",
       "tipo": "UBS",
-      "naturezajuridica": "Pública Estadual",
+      "natureza_juridica": "Estadual",
       "drs": 7,
       "observacoes": "Atendimento odontológico"
     }
@@ -50,7 +50,7 @@
     {
       "id": 1,
       "nome": "Mariana da Silva Santos",
-      "nomemae": "Maria da Silva Santos",
+      "nome_mae": "Maria da Silva Santos",
       "cpf": "12312312312",
       "cns": "12345678910",
       "telefone": "(11) 11111-1111",
@@ -71,7 +71,7 @@
           "id": 3,
           "tipo_de_exame": "Colo e Mama",
           "data_hora": "11/02/2024 14:30",
-          "status_anterior": "Papa Atrasado",
+          "status_anterior": "Papanicolau Atrasado",
           "novo_status": "Em Acompanhamento",
           "usuario_responsavel": "Dr. Felipe Souza"
         }
@@ -80,7 +80,7 @@
     {
       "id": 2,
       "nome": "Joana da Silva Santos",
-      "nomemae": "Marcela da Silva Santos",
+      "nome_mae": "Marcela da Silva Santos",
       "cpf": "98765432100",
       "cns": "22334455667",
       "telefone": "(11) 12222-2222",
@@ -102,7 +102,7 @@
     {
       "id": 3,
       "nome": "Paula Oliveira Costa",
-      "nomemae": "Ana Oliveira Costa",
+      "nome_mae": "Ana Oliveira Costa",
       "cpf": "32165498700",
       "cns": "66778899001",
       "telefone": "(11) 33333-3333",
@@ -114,7 +114,7 @@
     {
       "id": 4,
       "nome": "Luciana Pereira Lima",
-      "nomemae": "Juliana Pereira Lima",
+      "nome_mae": "Juliana Pereira Lima",
       "cpf": "96385274100",
       "cns": "66554433221",
       "telefone": "(11) 65555-5555",
@@ -126,7 +126,7 @@
     {
       "id": 5,
       "nome": "Ana Clara Souza",
-      "nomemae": "Fernanda Souza",
+      "nome_mae": "Fernanda Souza",
       "cpf": "14725836900",
       "cns": "99887766554",
       "telefone": "(11) 54444-4444",
@@ -138,7 +138,7 @@
     {
       "id": 6,
       "nome": "Carla Eduarda Mendes",
-      "nomemae": "Patrícia Mendes",
+      "nome_mae": "Patrícia Mendes",
       "cpf": "74125896300",
       "cns": "77665544332",
       "telefone": "(11) 87777-7777",
@@ -157,7 +157,7 @@
       "cnpj": "44763928000101",
       "telefone": "(11) 11234-5678",
       "origem": "São Paulo",
-      "tipoacesso": "administrador",
+      "tipo_acesso": "administrador",
       "password": "admin123",
       "funcao": "Administrador",
       "status": "Ativo",
@@ -172,12 +172,12 @@
       "cnpj": "44763928000101",
       "telefone": "(11) 11234-5678",
       "origem": "São Paulo",
-      "tipoacesso": "medico",
+      "tipo_acesso": "medico",
       "password": "admin123",
       "funcao": "Médico",
       "status": "Ativo",
       "ubs_id": 2,
       "permissao_id": 2
     }
-  ],
+  ]
 }
